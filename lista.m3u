@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:0,Willax
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+#EXTINF:0,Latina TV
+http://190.60.37.115:8001/play/a0ck/index.m3u8
+#EXTINF:0,RPP TV
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/playlist.m3u8
+#EXTINF:0,America TV
+http://190.60.37.115:8001/play/a0cj/index.m3u8
+#EXTINF:-1,Panamericana
+https://video-weaver.scl01.hls.ttvnw.net/v1/playlist/CowGmzhu2aVFNVQpz20g89_xSt9YT2qFOEj6Pj62Yfd5yRjkW0fdEYgWHcC2b3aC0w2keGGOX6u0kXKhgR5ceHle2zrUHy5sz-LsMbCe6b_twYdsC_Dcl2Q3ePaQVgMg1SMlV6o8QUbiKhCB5FTWD9K5yA5djjVvXdiTAyJr-6U1NGky8B2w3mvd1YsCw1GtDOViBKgJY2oAwhrHpRBbs1zXW3nuCDaWDWLNl7Fhm5rNr2eQhJtfLWKDY8XvNejsmWMZQ4V8fkQwyJVGhoFp10inogGL5cs3BpQ5LhKGALejOZNdozxpdAWfWq9AsOe8-65Wo8xAUkHv3hhPOicBhWf_5lyLIiDet2GsWdLtt9W9Ys7C5sSwvOYNKbbhTPNbDpVKCOSTz3evMB-uZkviEdIZlpgw3hPURrNlqG0ZCtZAg0F9w_-SoHk3PTsjEH-ZWdhK1gGG9VId50s66J9YAVzp1PkJL-KWpeFTNYgWfn4BhLlRUYz6g9dhL5vyMrUi2JROWZ6nHZFk5SAUqbFyZfY-2MvNza5bWqmmJkMHzZkMyBlOP46jEn0IPZy8k02czIE2pq7KT2qivwy3r5w05bXsxZJlpMuSWQ1YIgKrC32NGt_EmBJ1SmHF-dswCXPQV_rtEMqD3J0WbBnwUojRt0t0pkYB9b2JB26WOdQj9hPOYL18J2yP-fiWNVscaBbSabIWMuDR-tNK1yrnyJUmnkk6-JKijwaTmC4Lw6vaip7kefRH-KZT-q1Rw7tt9h6KmPinvq7TsMZdHR4SktdPHGZ6XAbLhquAi4WtnzzREEr7h8pjoAC1m0UKk8PaLLzYe4ahuMmsTR6exn2cfvCNYGqLy3dmxwX1eF3lRNPMhjsHXsMMgYnkyR8aljHa71Ns8BYWPpqojeCuq9qm0y_dYceZpHHqvfCMbZTFN5a8zhM9GPre9kCqKUXGyrj7B9i5jywYRbdRunGv2-E6Kr6IZYny7wPx93thyyOTSvOe5Z5hTLxs-5ASh1Q-to4U3kOdObtcONnr-O4bBFqZQ0wcGgxzCyrdKepHJqoYUFcgASoJdXMtZWFzdC0xMJcJ.m3u8
+#EXTINF:0,Exitosa
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/exitosa.stream/playlist.m3u8
+#EXTINF:0,TV PERU
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/tvperu.stream/playlist.m3u8
+#EXTINF:-1,Canal N
+http://179.51.160.189:9009/play/a00d/index.m3u8
+#EXTINF:0,Atv
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_source/chunks.m3u8
+#EXTINF:0,Tlnovelas
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/TL_Novelas/playlist.m3u8
+#EXTINF:0,Pasiones HD
+http://190.90.18.161:15082/play/a04v/index.m3u8
+#EXTINF:0,DISTRITO COMEDIA HD
+http://190.90.252.200:16001/play/a07n/index.m3u8
+#EXTINF:-1,GLOBAL HD
+http://bantel-cdn1.iptvperu.tv:1935/nacmf_mov/globalmovil_t6.stream/playlist.m3u8
+#EXTINF:0,Las Estrellas Mexico
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,Karibeña
+http://bantel-cdn1.iptvperu.tv:1935/cdnrhj/karibena.stream/playlist.m3u8
+#EXTINF:-1,Musica Peru
+http://bantel-cdn1.iptvperu.tv:1935/cdnrhj/mimusicaperu/playlist.m3u8
+#EXTINF:-1,RETRO TV
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
+#EXTINF:-1,Memorias tv
+https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
+#EXTINF:-1,Memorias Classic
+https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1,Top Latino
+http://bantel-cdn1.iptvperu.tv:1935/cdnrhj/toplatino.stream/playlist.m3u8
+#EXTINF:-1,Rumba tv
+http://bantel-cdn1.iptvperu.tv:1935/cdnrhj/rumbatv.stream/playlist.m3u8
+#EXTINF:-1,Mix tv
+http://bantel-cdn1.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
+#EXTINF:-1,Canal 5
+http://181.78.106.127:9000/play/ca012/index.m3u8
+#EXTINF:-1,TLN USA
+http://181.78.106.127:9000/play/ca013/index.m3u8
+#EXTINF:-1,ETC HD
+http://190.60.33.245:4002/play/a0uw/index.m3u8
+#EXTINF:-1,AMC HD
+http://190.60.37.115:8001/play/a0aa/index.m3u8
+#EXTINF:-1,AXN HD
+http://190.60.37.115:8001/play/a08e/index.m3u8
+#EXTINF:-1,Adult Swim HD
+http://190.60.37.115:8001/play/a0c5/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://190.60.37.115:8001/play/a0a9/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://190.60.37.115:8001/play/a0c2/index.m3u8
+#EXTINF:-1,Clover HD
+http://190.60.37.115:8001/play/a08k/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://190.60.37.115:8001/play/a0c3/index.m3u8
+#EXTINF:-1,ElCanaldelFutbol HD
+http://190.60.37.115:8001/play/a0cn/index.m3u8
+#EXTINF:-1,FX HD
+http://190.60.37.115:8001/play/a09j/index.m3u8
+#EXTINF:-1,Golden HD
+http://190.60.37.115:8001/play/a0ca/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://190.60.37.115:8001/play/a0aj/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://190.60.37.115:8001/play/a0bm/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.60.37.115:8001/play/a0ac/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://190.60.37.115:8001/play/a08i/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://190.60.37.115:8001/play/a0bn/index.m3u8
+#EXTINF:-1,Kanal D Drama HD
+http://190.60.37.115:8001/play/a0ad/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://190.60.37.115:8001/play/a0bh/index.m3u8
+#EXTINF:-1,MTV HD
+http://190.60.37.115:8001/play/a0bf/index.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://190.60.37.115:8001/play/a09f/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://190.60.37.115:8001/play/a0c8/index.m3u8
+#EXTINF:-1,Paramount HD
+http://190.60.37.115:8001/play/a0af/index.m3u8
+#EXTINF:-1,Pasiones HD
+http://190.60.37.115:8001/play/a0bt/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://190.60.37.115:8001/play/a08m/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://190.60.37.115:8001/play/a09d/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://190.60.37.115:8001/play/a0bc/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://190.60.37.115:8001/play/a0bb/index.m3u8
+#EXTINF:-1,Sony HD
+http://190.60.37.115:8001/play/a08c/index.m3u8
+#EXTINF:-1,Space HD
+http://190.60.37.115:8001/play/a08f/index.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://190.60.37.115:8001/play/a0ch/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://190.60.37.115:8001/play/a0ag/index.m3u8
+#EXTINF:-1,TNT HD
+http://190.60.37.115:8001/play/a0bw/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+http://190.60.37.115:8001/play/a0b6/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://190.60.37.115:8001/play/a09i/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://190.60.37.115:8001/play/a09e/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://190.60.37.115:8001/play/a08d/index.m3u8
+RAW Paste Data 
